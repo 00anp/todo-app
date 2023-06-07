@@ -1,4 +1,2 @@
-new todo
-Clean the bag.Fix the computer.Fix the lamp.
-Get paper.
-Help thy neighbour.
+Commit changes
+Deploy App
